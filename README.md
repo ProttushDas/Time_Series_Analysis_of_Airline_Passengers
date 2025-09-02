@@ -22,7 +22,6 @@ The analysis uses the `airline-passenger-traffic.csv` dataset, which contains mo
 - **Order (p,d,q):** (0, 1, 1)  
 - **Seasonal (P,D,Q,s):** (1, 1, 1, 12)  
 - **Performance:**  
-  - RMSE: 22.68 
   - MAPE: 4.09%  
 
 This model provided the most accurate forecasts, capturing both the increasing trend and strong annual seasonality.
